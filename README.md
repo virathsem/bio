@@ -12,3 +12,7 @@ Experienced DevOps and Cloud Architect with 15+ years of expertise in building, 
 - Landed first professional IT job in 1993 as Help Desk Support at Babson College IT Department.
 - Since then, advanced through a wide range of IT roles—including system administrator, database administrator, network engineer, website designer, and more—progressing from engineer and senior engineer to director and VP. In recent years, my focus has been on Cloud architecture, Infrastructure as Code (IaC), and CI/CD automation.
 
+---
+
+[View my full resume &rarr;](./resume.md)
+
