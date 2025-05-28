@@ -1,7 +1,6 @@
 # bio# 👋 Virath Sem
 
-📫 **Email:** virath@gmail.com  
-📞 **Phone:** (754) 261-7680  
+Contact me via LinkedIn below for email or phone details.  
 🧭 **Role:** DevOps | SRE | CloudOps | Infrastructure Architect  
 🌐 **Tech Stack:** AWS | Azure | GCP | OCI | Kubernetes | Terraform | CI/CD | Observability
 
