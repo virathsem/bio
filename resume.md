@@ -1,4 +1,4 @@
-# bio# 👋 Virath Sem
+# 👔 Resume — Virath Sem
 
 Contact me via LinkedIn below for email or phone details.  
 🧭 **Role:** DevOps | SRE | CloudOps | Infrastructure Architect  
