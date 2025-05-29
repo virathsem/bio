@@ -12,7 +12,7 @@ Contact me via LinkedIn below for email or phone details.
 
 Seasoned DevOps leader with 15+ years of experience architecting, automating, and scaling cloud-native and hybrid systems. Proven expertise in AWS, Azure, GCP, and OCI environments. Specializes in Infrastructure as Code (IaC), CI/CD automation, observability design, and enabling high-velocity development through efficient DevOps practices. Experienced in leading teams and driving end-to-end platform transformations.
 
-**Reflection:** My career has been defined by a passion for solving complex challenges, mentoring teams, and staying ahead of technological trends. Each role has allowed me to grow as a leader and innovator, driving impactful changes in IT operations and development practices.
+**Reflection:** My career has been defined by a passion for solving complex challenges, mentoring teams, and staying ahead of technological trends. Leveraged AI tools for code analysis and quality assurance to enhance development workflows. Each role has allowed me to grow as a leader and innovator, driving impactful changes in IT operations and development practices.
 
 ---
 
