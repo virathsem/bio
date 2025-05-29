@@ -6,7 +6,7 @@ Experienced DevOps and Cloud Architect with 15+ years of expertise in building, 
 
 ## 🧬 Bio
 
-- Born in 1972 in Cambodia and lived through the Khmer Rouge period.
+- <span style="color:blue;">Born in 1972 in Cambodia</span> and lived through the Khmer Rouge period.
 - Escaped as a refugee and eventually arrived in America in 1980.
 - Worked in many different types of jobs from a young age.
 - Attended Lowell High School in Massachusetts and Framingham State University (formerly Framingham State College), pursuing a degree in Biology.
@@ -18,28 +18,17 @@ Experienced DevOps and Cloud Architect with 15+ years of expertise in building, 
 
 ## Career Journey
 
-Below is a visual representation of my professional journey, highlighting the evolution of my technical focus and leadership roles across different eras of IT.
+Below is a summary of my professional journey, highlighting the evolution of my technical focus and leadership roles across different eras of IT.
 
-```mermaid
-flowchart LR
-    A["1993-1996<br/>**Pre-Internet**<br/>Started IT professional career as Help Desk Support, Windows NT Server Admin, Banyan VINES Networks Admin, and VAX.<br/><br/>**Reflection:** This period taught me the importance of foundational IT skills and problem-solving."]:::preInternet
-    B["1997-2005<br/>**Early Web Application Era**<br/>Windows Admin, MS IIS with SQL Clustering, Oracle Parallel Services, Solaris/SunOS web servers, Cisco networking, Unix/Linux, HTML/DOM, MS FrontPage, Dreamweaver for dotcom startups.<br/><br/>**Reflection:** Adapted to the fast-paced dotcom boom, learning to work with cutting-edge technologies and collaborate with startups."]:::webEra
-    C["2006-2012<br/>**Early Cloud Computing Era**<br/>Built web application infrastructure stacks on AWS.<br/>Linux, Apache, PostgreSQL, SVN, Jenkins.<br/>Picked up JavaScript, web service & e-commerce API integrations.<br/><br/>**Reflection:** This period solidified my ability to build scalable systems and embrace emerging cloud technologies."]:::cloudEra
-    D["2013-2022<br/>**DevOps (IaC Era)**<br/>Adopted DevOps practices, automated deployments with Puppet, Chef, SaltStack, Ansible, Terraform, GitHub CI/CD.<br/>Expanded to GCP/DigitalOcean.<br/>Advanced observability: DataDog, New Relic, DynaTrace, Grafana.<br/><br/>**Reflection:** Transitioned into leadership roles, driving automation and enabling high-performance teams."]:::devOpsEra
-    E["2018-present<br/>**AI Era**<br/>Added Oracle Cloud & Azure.<br/>Advanced DevOps with Kubernetes, Docker, Packer.<br/>Enhanced CI/CD with GitHub, GitLab, Bitbucket.<br/>Integrated ChatGPT & Copilot for IaC coding/scripting.<br/><br/>**Reflection:** Continued to innovate by integrating AI tools into workflows, staying ahead of industry trends."]:::aiEra
+| <span style="color:white;">Time Period</span>       | <span style="color:orange;">Era</span>                     | <span style="color:teal;">Highlights</span>                                                                                     | Reflection                                                                                     |
+|-------------------|-------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **<span style="color:white;">1993-1996</span>**     | **<span style="color:orange;">Pre-Internet</span>**        | <span style="color:teal;">Started IT career as Help Desk Support, Windows NT Server Admin, Banyan VINES Networks Admin, and VAX.</span> | This period taught me the importance of foundational IT skills and problem-solving.           |
+| **<span style="color:white;">1997-2005</span>**     | **<span style="color:orange;">Early Web Application Era</span>** | <span style="color:teal;">Worked on MS IIS, SQL Clustering, Oracle Parallel Services, Solaris/SunOS, Cisco networking, HTML/DOM, and tools like MS FrontPage and Dreamweaver for dotcom startups.</span> | Adapted to the fast-paced dotcom boom, learning to work with cutting-edge technologies and collaborate with startups. |
+| **<span style="color:white;">2006-2012</span>**     | **<span style="color:orange;">Early Cloud Computing Era</span>** | <span style="color:teal;">Built web application infrastructure stacks on AWS, Linux, Apache, PostgreSQL, SVN, and Jenkins. Picked up JavaScript and worked on web service & e-commerce API integrations.</span> | This period solidified my ability to build scalable systems and embrace emerging cloud technologies. |
+| **<span style="color:white;">2013-2022</span>**     | **<span style="color:orange;">DevOps (IaC Era)</span>**    | <span style="color:teal;">Adopted DevOps practices, automated deployments with Puppet, Chef, SaltStack, Ansible, Terraform, and GitHub CI/CD. Expanded to GCP/DigitalOcean and advanced observability with DataDog, New Relic, and Grafana.</span> | Transitioned into leadership roles, driving automation and enabling high-performance teams.     |
+| **<span style="color:white;">2018-Present</span>**  | **<span style="color:orange;">AI Era</span>**              | <span style="color:teal;">Added Oracle Cloud & Azure. Advanced DevOps with Kubernetes, Docker, Packer, and CI/CD tools like GitHub, GitLab, and Bitbucket. Integrated ChatGPT & Copilot for IaC coding/scripting.</span> | Continued to innovate by integrating AI tools into workflows, staying ahead of industry trends. |
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-
-    %% Define styles for each block with improved contrast
-    classDef preInternet fill:#f8d7da,stroke:#721c24,stroke-width:2px,color:#721c24;
-    classDef webEra fill:#d1ecf1,stroke:#0c5460,stroke-width:2px,color:#0c5460;
-    classDef cloudEra fill:#d4edda,stroke:#155724,stroke-width:2px,color:#155724;
-    classDef devOpsEra fill:#fff3cd,stroke:#856404,stroke-width:2px,color:#856404;
-    classDef aiEra fill:#e2e3e5,stroke:#383d41,stroke-width:2px,color:#383d41;
-```
+---
 
 [View my full resume &rarr;](./resume.md)
 
