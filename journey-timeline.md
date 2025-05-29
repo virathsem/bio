@@ -1,4 +1,4 @@
-# 🌟 **Virath Sem — Career Journey (Mermaid Flowchart)**
+# 🌟 **Virath Sem — DevOps Leader & IT Innovator**
 
 ---
 
@@ -23,4 +23,4 @@ flowchart LR
     classDef cloudEra fill:#d4edda,stroke:#155724,stroke-width:2px,color:#155724;
     classDef devOpsEra fill:#fff3cd,stroke:#856404,stroke-width:2px,color:#856404;
     classDef aiEra fill:#e2e3e5,stroke:#383d41,stroke-width:2px,color:#383d41;
-```
+````
