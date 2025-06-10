@@ -29,5 +29,11 @@ Below is a summary of my professional journey, highlighting the evolution of my 
 
 ---
 
-[View my full resume &rarr;](./resume.md)
+## 📎 Let's Connect
 
+I'm open to collaborating, mentoring, or tackling complex DevOps challenges. Reach out on:
+
+- <img src="./artifacts/5296501_linkedin_network_linkedin logo_icon.png" alt="LinkedIn" width="20" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/virathsem/)
+- <img src="./artifacts/6296667_microsoft_office_office 365_teams_icon.png" alt="Microsoft Teams" width="20" style="vertical-align:middle;"/> [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=virath@gmail.com)
+
+[View my full resume &rarr;](./resume.md)
