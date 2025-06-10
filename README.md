@@ -6,8 +6,7 @@ Experienced DevOps and Cloud Architect with 15+ years of expertise in building, 
 
 ## 🧬 Bio
 
-- Born in 1972 in Cambodia and lived through the Khmer Rouge period.
-- Escaped as a refugee and eventually arrived in America in 1980.
+- Escaped as a refugee from Cambodia and eventually arrived in America in 1980.
 - Worked in many different types of jobs from a young age.
 - Attended Lowell High School in Massachusetts and Framingham State University (formerly Framingham State College), pursuing a degree in Biology.
 - Started working with computers in 1986.
