@@ -1,6 +1,6 @@
-Virath Sem
+## Virath Sem
 virath@gmail.com | (754) 261-7680 | Buffalo, NY | Open to Remote or Relocation
----
+
 
 ## Professional Summary
 Strategic and hands-on DevOps leader with 20+ years of experience architecting and scaling enterprise-grade infrastructure, cloud platforms, and CI/CD pipelines across fintech, media, and emerging tech industries. Proven ability to lead high-performing teams while driving digital transformation initiatives, regulatory compliance, and cost optimization across hybrid and multi-cloud environments (Azure, AWS, GCP). Adept at implementing Infrastructure as Code (IaC), observability platforms, and secure SDLC practices to enable reliable, high-velocity software delivery. Strong cross-functional collaborator with a track record of aligning engineering capabilities with business goals in regulated environments.
@@ -160,7 +160,7 @@ Led all IT operations for a 3,500-user, 45-office national mortgage organization
 - Instituted IT governance and change management, defining processes across development, QA, and production, improving audit readiness (SOX, GLBA) and system stability.
 - Restructured and empowered IT teams, boosting morale and creating a collaborative culture with clear escalation paths and cross-functional engagement.
 
-### Director, Infrastructure Services Group
+### Director Infrastructure Services Group
 Tallan, Inc. – Hartford, CT | 1998 – 2005
 
 Led a team of consultants and senior engineers delivering enterprise infrastructure and custom web application platforms for clients in healthcare, finance, government, and e-commerce. Advised Fortune 500/1000 clients on secure, scalable, and high-availability architecture in the early days of internet and datacenter evolution. Focused on building robust, on-premises systems using Cisco networking, Java-based application stacks, and Oracle/SQL backends. Played a key role in practice development, methodology creation, and service delivery strategy.
