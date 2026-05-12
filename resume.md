@@ -26,6 +26,24 @@ Framingham State University (formerly Framingham State College) – Framingham, 
 
 ## Work Experience
 
+### Senior Cloud DevOps Engineer
+PTC – Boston, MA (Remote) | Jul 2025 – Current
+
+Joined PTC to support and modernize secure cloud infrastructure and DevOps operations within a FedRAMP-aligned environment. Focused on Infrastructure as Code (IaC), configuration management, compliance automation, and cloud operations across Azure. Collaborated with infrastructure, security, and engineering teams to standardize deployments, automate remediation workflows, and improve operational efficiency across regulated environments.
+- Designed and managed Azure cloud infrastructure, including Virtual Machines, Virtual Networks (VNet), Azure Functions, Front Door, Backups, and Entra ID integrations to support secure and scalable enterprise workloads.
+- Managed and administered self-hosted GitLab environments running on Docker across development, staging, and production environments, ensuring platform reliability, consistency, and operational scalability.
+- Implemented GitLab project and repository mirroring strategies across multiple environments and business units, streamlining code synchronization, disaster recovery readiness, and controlled software promotion workflows.
+- Integrated GitLab with Microsoft Entra ID (Azure AD) Single Sign-On (SSO) to centralize authentication, strengthen access governance, and simplify user lifecycle management across engineering teams.
+- Implemented and maintained Infrastructure as Code (IaC) solutions using Terraform integrated with SaltStack, enabling consistent provisioning, configuration management, and operational standardization across environments.
+- Improved FedRAMP and STIG compliance posture by developing automated remediation workflows using SaltStack, significantly reducing manual remediation efforts and accelerating audit readiness.
+- Integrated Wiz security findings into automated remediation pipelines, leveraging Salt automations to address FedRAMP/STIG vulnerabilities and enforce security baselines across cloud infrastructure.
+- Developed Python, Bash, and PowerShell automation scripts to eliminate repetitive operational tasks, streamline infrastructure management, and improve overall engineering efficiency.
+- Enhanced CI/CD and infrastructure delivery workflows by integrating GitLab pipelines with Terraform and SaltStack, improving deployment consistency and reducing configuration drift.
+- Introduced and trained engineering teams on AI-assisted development workflows using Visual Studio Code integrations with GitHub Copilot, ChatGPT, Claude, Gemini, and other AI tooling to accelerate scripting, troubleshooting, documentation, and infrastructure automation tasks.
+- Increased engineering productivity and operational efficiency by promoting practical AI usage standards and embedding AI-assisted workflows into daily DevOps and cloud engineering operations.
+- Partnered with security and platform engineering teams to implement secure infrastructure patterns and operational controls aligned with enterprise governance and compliance requirements.
+- Contributed to operational reliability and infrastructure scalability through automation-first engineering practices, reducing manual intervention and accelerating deployments across cloud environments.
+
 ### Director of DevOps
 International Money Express – Miami, FL (Remote) | Jan 2022 – May 2025
 
